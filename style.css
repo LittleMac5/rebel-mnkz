@@ -1,0 +1,170 @@
+body {
+    font-family: st-simplesquare, sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    background: radial-gradient(circle, #a80000, #000);
+    color: #d4d4d4;
+}
+
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    padding: 16px 200px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.intro {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 0;
+    gap: 8px;
+}
+
+.left-side {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.right-side {
+    flex: none;
+}
+
+.leaders {
+    display: flex;
+    flex-direction: column;
+    background-color: #707070;
+    padding: 100px;
+    gap: 30px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 46px;
+    font-weight: bolder;
+    color: #A80000;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    padding: 100px 300px;
+}
+
+.credit {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 32px;
+    font-weight: bolder;
+    color: #707070;
+    margin: 0;
+}
+
+.sign-up {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 200px;
+    padding: 50px 100px;
+    background-color: #707070;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
+    border-color: #1f1f1f;
+}
+
+.right-side img {
+    width: 500px;
+    height: auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 32px;
+}
+
+a  {
+    text-decoration: none;
+    font-size: 18px;
+    color: #707070
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #707070;
+    margin: 0;
+}
+
+.main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.secondary-text {
+    font-size: 18px;
+}
+
+.alone-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #A80000;
+}
+
+.text {
+    font-size: 36px;
+    font-style: italic;
+    color: #d4d4d4;
+    margin: 0;
+}
+
+button {
+    background-color: #A80000;
+    padding: 8px 32px;
+    border-radius: 5px;
+    color: #d4d4d4;
+    font-size: 24px;
+}
+
+.intro button{
+    border: none;
+}
+
+.sign-up button{
+    border-width: 3px;
+    border-color: #1f1f1f;
+}

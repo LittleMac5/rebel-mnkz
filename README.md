@@ -12,3 +12,5 @@ Shiva Image: Photo by Spoortesh Honey: https://www.pexels.com/photo/photo-of-mon
 Zeus Image: Photo by furkanfdemir: https://www.pexels.com/photo/old-sculpture-of-man-with-naked-torso-5018188/
 
 Buddha Image: Photo by Daniela  Ruiz: https://www.pexels.com/photo/gautama-buddha-1042206/
+
+Heaven Image: Photo by Min An: https://www.pexels.com/photo/mountains-with-crepuscular-ray-1403550/
